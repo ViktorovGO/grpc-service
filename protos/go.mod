@@ -2,6 +2,7 @@ module github.com/ViktorovGO/grpc-service/protos
 
 go 1.23.5
 
+
 require (
 	google.golang.org/grpc v1.71.1
 	google.golang.org/protobuf v1.36.6
